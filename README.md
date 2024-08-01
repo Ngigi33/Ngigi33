@@ -21,6 +21,8 @@
 #### name : Joe Albert Ngigi
 #### Contact : albertngigi3@gmail.com
 
+
+![Albert's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ngigi33&show_icons=true&theme=cobalt)
 <!--
 #### Education : Self-Taught : Flutter, ROS, Microcontroller,PCB, Ubuntu
   #### BSc Mechatrronics Engineering"
