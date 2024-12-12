@@ -1,6 +1,6 @@
 <!--## Hi there 👋 -->
 
-![header](https://capsule-render.vercel.app/api?&animation=fadeIn&type=venom&color=auto&height=200&section=header&text=Hi%20there%20👋%20Everyone!&fontSize=50)
+![header](https://capsule-render.vercel.app/api?&animation=fadeIn&type=slice&color=auto&height=200&section=header&text=Hi%20there%20👋%20Everyone!&fontSize=50)
 
 
 <!--
